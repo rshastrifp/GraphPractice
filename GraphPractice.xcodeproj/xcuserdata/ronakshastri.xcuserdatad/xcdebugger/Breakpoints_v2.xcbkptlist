@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2AE38056-2B0F-4EBC-BB7D-4499F29F48EF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6EDDC87-C8DF-4D32-8284-1C40BDB04F24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GraphPracticeTests/GraphPracticeTests.swift"
+            timestampString = "591224340.247268"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "testDfsBfs()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5495102-5F98-4922-8772-15B369938846"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GraphPracticeTests/GraphPracticeTests.swift"
+            timestampString = "591224340.247628"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "testDfsBfs()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9CBD110-F761-4C10-AE28-817D65330885"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GraphPractice/Graph.swift"
+            timestampString = "591224340.247895"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "appendAndMove(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E9CBD110-F761-4C10-AE28-817D65330885 - ccdafb55b16d98db"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GraphPracticeTests.Graph.(appendAndMove in _5DB99D8AAB854A953866651FB658FEF9)(inout Swift.Array&lt;Swift.Int&gt;, GraphPracticeTests.Node) -&gt; ()"
+                  moduleName = "GraphPracticeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronakshastri/personal/GraphPractice/GraphPractice/Graph.swift"
+                  timestampString = "591218779.952003"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "243">
+               </Location>
+               <Location
+                  uuid = "E9CBD110-F761-4C10-AE28-817D65330885 - 618c14a414fcec03"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GraphPractice.Graph.(appendAndMove in _48E0CC27E772326F3B62BF816FB2C1B2)(inout Swift.Array&lt;Swift.Int&gt;, GraphPractice.Node) -&gt; ()"
+                  moduleName = "GraphPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronakshastri/personal/GraphPractice/GraphPractice/Graph.swift"
+                  timestampString = "591218780.039626"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "243">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92CB9FB5-838D-49A0-B172-96D1DD60F88E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GraphPractice/Graph.swift"
+            timestampString = "591224340.247955"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "bfs(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "92CB9FB5-838D-49A0-B172-96D1DD60F88E - f951a729878587f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GraphPracticeTests.Graph.bfs(GraphPracticeTests.Node) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "GraphPracticeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronakshastri/personal/GraphPractice/GraphPractice/Graph.swift"
+                  timestampString = "591224340.730541"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "92CB9FB5-838D-49A0-B172-96D1DD60F88E - fb26b6fd457e4d8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GraphPractice.Graph.bfs(GraphPractice.Node) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "GraphPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronakshastri/personal/GraphPractice/GraphPractice/Graph.swift"
+                  timestampString = "591224340.735684"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "692">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F28D0116-09B3-43C4-977C-8C2220F782F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GraphPractice/Graph.swift"
+            timestampString = "591224340.248003"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "appendUsingQuequeForBfs(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F28D0116-09B3-43C4-977C-8C2220F782F7 - 98efc6779b40ba2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GraphPracticeTests.Graph.(appendUsingQuequeForBfs in _5DB99D8AAB854A953866651FB658FEF9)(inout Swift.Array&lt;Swift.Int&gt;, GraphPracticeTests.Node, inout GraphPracticeTests.QueueCustom&lt;GraphPracticeTests.Node&gt;) -&gt; ()"
+                  moduleName = "GraphPracticeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronakshastri/personal/GraphPractice/GraphPractice/Graph.swift"
+                  timestampString = "591224340.733014"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "290">
+               </Location>
+               <Location
+                  uuid = "F28D0116-09B3-43C4-977C-8C2220F782F7 - 85f9c1dd2655b23f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GraphPractice.Graph.(appendUsingQuequeForBfs in _48E0CC27E772326F3B62BF816FB2C1B2)(inout Swift.Array&lt;Swift.Int&gt;, GraphPractice.Node, inout GraphPractice.QueueCustom&lt;GraphPractice.Node&gt;) -&gt; ()"
+                  moduleName = "GraphPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronakshastri/personal/GraphPractice/GraphPractice/Graph.swift"
+                  timestampString = "591224340.738001"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "290">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
